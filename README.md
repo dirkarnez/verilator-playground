@@ -9,3 +9,4 @@
 
 ### Tutorials
 - [Verilator 使用指南 - USTC CECS 2023](https://soc.ustc.edu.cn/CECS/lab2/verilator/)
+- [FPGA-netlist-tools/verilator at master · pmonta/FPGA-netlist-tools](https://github.com/pmonta/FPGA-netlist-tools/tree/master/verilator)
